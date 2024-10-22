@@ -34,3 +34,7 @@ a {
 img {
   width: 100%;
 }
+
+address{
+  font-style: normal;
+}
