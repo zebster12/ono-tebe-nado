@@ -218,9 +218,8 @@
   display: grid;
   grid-template-columns: 1fr 2fr;
   grid-template-rows: auto auto;
-
   margin-right: 24px;
-  margin-bottom: 189px;
+  margin-bottom: 181px;
   margin-left: 24px;
 }
 
@@ -228,7 +227,7 @@
   display: grid;
   grid-column: 2/3;
   grid-row: 2/3;
-  gap: 24px;
+  gap: 15px;
 }
 
 .about__logo {
@@ -258,7 +257,6 @@
 
 .about__text {
   margin-top: 8px;
-  margin-bottom: 8px;
   margin-left: 8px;
   font-weight: 400;
   font-size: 20px;
